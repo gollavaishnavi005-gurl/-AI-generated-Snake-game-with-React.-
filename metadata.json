@@ -1,0 +1,6 @@
+{
+  "name": "SynthSnake Music Player",
+  "description": "A high-octane Snake game integrated with a neon-synth music player. Play Snake while jamming to dummy AI-generated synthwave tracks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
